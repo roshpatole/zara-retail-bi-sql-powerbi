@@ -109,7 +109,7 @@ The Power BI report is designed as a single-page executive dashboard.
 ### Main elements:
 
 #### 🔹 KPI Cards
-![KPI Cards](images/kpi_cards.png)
+![KPI Cards](screenshots/KPI.png)
 
 - Total Revenue (₹)  
 - Total Orders  
