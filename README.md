@@ -10,7 +10,7 @@ The main goal of the project is to show how sales-related data can be transforme
 
 ## 🖼️ Dashboard Preview
 
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ---
 
