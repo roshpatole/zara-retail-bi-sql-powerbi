@@ -120,12 +120,12 @@ The Power BI report is designed as a single-page executive dashboard.
 These give a quick snapshot of overall performance.
 
 #### 🔹 Monthly Revenue Trend
-![Monthly Revenue Trend](screenshots/Revenue_Trend_by_Month.png)
+![Monthly Revenue Trend](screenshots/Revenue%20Trend%20by%20Month.png)
 
 A line chart shows how revenue changes across months and years.
 
 #### 🔹 Store & Channel Performance
-![Store and Channel Performance](screenshots/Revenue_by_Store_&_Sales_Channel.png)
+![Store and Channel Performance](screenshots/Revenue%20by%20Store%20&%20Sales%20Channel.png)
 
 A bar chart compares performance across stores and separates revenue by sales channel (Store vs Online).
 
