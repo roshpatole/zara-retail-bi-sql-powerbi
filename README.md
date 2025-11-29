@@ -141,4 +141,14 @@ The dashboard is intentionally kept simple, focusing on clarity and correctness 
 
 - **PostgreSQL** – Database and analytical data storage  
 - **SQL** – Data modeling, transformations, and KPI logic  
-- **Power BI Desktop** – Visualization and reporting  
+- **Power BI Desktop** – Visualization and reporting
+
+---
+
+## 📌 Disclaimer
+All data used in this project is synthetic and created only for educational and portfolio purposes.
+
+---
+
+### 👤 Created by
+**Roshan Patole**
