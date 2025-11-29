@@ -120,7 +120,7 @@ The Power BI report is designed as a single-page executive dashboard.
 These give a quick snapshot of overall performance.
 
 #### 🔹 Monthly Revenue Trend
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+![Monthly Revenue Trend](screenshots/Revenue Trend by Month.png)
 
 A line chart shows how revenue changes across months and years.
 
